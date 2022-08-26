@@ -1,9 +1,10 @@
 # Portfolio-Oraan
 
-# description
+# Description
+This is a website I made out of scratch, using my own code. This is an example of how I would start to build a website. 
 
 
-# user story: 
+# User story: 
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
@@ -23,3 +24,4 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
